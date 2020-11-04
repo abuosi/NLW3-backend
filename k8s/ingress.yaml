@@ -4,7 +4,7 @@ metadata:
   name: api-orphanages
 spec:
   rules:
-  - host: api.abuosi.local
+  - host: api.happy.local
     http:
       paths:
       - backend:
